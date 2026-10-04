@@ -23,4 +23,4 @@
 
 📫 **How to reach me:**
 - Email: olegkhutorianskiyjob@gmail.com
-- LinkedIn: [Ваш профіль LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/oleg-khutorianskiyfrontdev/
