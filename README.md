@@ -8,7 +8,7 @@
 ---
 
 ### 🛠 Tech Stack & Tools
-- **Frontend:** React, Redux Toolkit, JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS, Responsive Web Design
+- **Frontend:** React, Redux Toolkit, JavaScript (ES6+), HTML5, CSS3/SCSS, Responsive Web Design
 - **API & Tools:** REST API, Git & GitHub, Postman, VS Code, npm, Webpack / Vite
 - **Basics:** Node.js, Express, PostgreSQL, MongoDB, Docker
 
